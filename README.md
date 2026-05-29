@@ -1,7 +1,7 @@
 # Intel._and_Safe_Robotics_Lab4_Template
 # Lab 4: Follow the Gap
 
-## I. Learning Goals
+## I. Learning Goals 
 
 - Reactive methods for obstacle avoidance
 
